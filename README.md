@@ -1,3 +1,10 @@
+# Mobx vs. Redux
+
+The repository hosts a simple todo application implementation in both `redux` and `mobx`.
+The exact same functionality has been implemented and the same look and feel has been maintained to show case the difference of approach.
+
+## Repository Info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
